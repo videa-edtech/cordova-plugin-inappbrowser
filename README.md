@@ -19,5 +19,3 @@ You can install this package using the [original installation instructions](http
 ```sh
 cordova plugin add @moodlehq/cordova-plugin-inappbrowser@5.0.0-moodle.2
 ```
-
-Depending on your cordova version, this command will add the plugin to your package.json as `cordova-plugin-inappbrowser` (for example, under `cordova.plugins`). In that case, you also need to add `@moodlehq/cordova-plugin-inappbrowser` so that the project restores the fork properly in other machines. Make sure that it is listed before the unscoped plugin name.

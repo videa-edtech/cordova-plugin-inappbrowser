@@ -1,6 +1,6 @@
 {
   "name": "@moodlehq/cordova-plugin-inappbrowser",
-  "version": "5.0.0-moodle.1",
+  "version": "5.0.0-moodle.2",
   "description": "Moodle's fork of Cordova InAppBrowser Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
